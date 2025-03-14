@@ -1,0 +1,137 @@
+.logo img{
+    width: 350px;
+    height: auto;
+    margin: -15px 0px -20px 0px;
+}
+
+header ul{
+    width: 98%;
+    height: 60px;
+    background-color: black;
+    line-height: 40px;
+}
+
+header li{
+    display: inline-block;
+    list-style: none;
+    padding-right: 50px;
+    color: white;
+    font-size: 25px;
+    margin-top: 10px
+}
+
+
+main{
+    clear: both;
+}
+
+.main-container{
+    width: 100%;
+    margin: 50 auto;
+}
+
+.left{
+    float: left;
+    width: 73%;
+    margin-bottom: 40px;
+}
+
+h1{
+    border-left: 5px solid black;
+    border-bottom: 3px double black;
+    padding-left: 10px;
+    font-size: 30px;
+    margin-right: 20px;
+}
+
+h2{
+    border-left: 5px solid red;
+    margin-left: 20px;
+    padding-left: 10px;
+}
+
+
+
+form{
+    width: 1330px;
+    margin: 0 auto;
+    background-color: #fbfbfb;
+    border: 3px solid #ebebeb;
+}
+
+form div {
+    padding: 15px;
+}
+
+.text,textarea,.dropdown {
+    border: 1px solid #dfdfdf;
+    padding: 5px;
+    color: #999;
+    background: #fff;
+}
+
+.submit {
+    border: 1px solid lightgray;
+    padding: 4px 10px;
+    color: white;
+    background-color: #bfbfbf;
+    border-radius: 5px;
+    border-bottom: 2px solid gray;
+}
+
+.kiji{
+    width: 1310px;
+    margin: 0 auto;
+    background-color: #fbfbfb;
+    border: 3px solid #ebebeb;
+    margin-top: 10px;
+    margin-left: 20px;
+    padding-left: 20px;
+}
+
+h3{
+    border-bottom: 2px solid lightgray;
+}
+
+.kiji .contents {
+    margin-bottom: 15px;
+}
+
+.kiji .handlename {
+    margin-top: 10px;
+}
+
+.right{
+    float: left;
+    width: 25%;
+    margin-bottom: 40px;
+}
+
+.right h3{
+    padding-top: 10px;
+    padding-left: 5px;
+    border-bottom: 2px dotted lightgrey;
+    font-size: 25px;
+    margin-right: 20px;
+}
+
+.right li{
+    list-style: none;
+    font-size: 18px;
+    margin-left: -15px;
+}
+
+footer{
+    clear: left;
+    width: 100%;
+    height: 60px;
+    color: white;
+    background-color: black;
+    line-height: 40px;
+    text-align: center;
+}
+
+.word{
+    font-size: 25px;
+    padding-top: 10px;
+}
