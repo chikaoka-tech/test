@@ -1,3 +1,6 @@
+//フォルダへの変更
+
+
 //問1
 function menseki(hankei){
     return "半径" + hankei + "㎝の面積は" + hankei * hankei * 3.14 + "㎠です。";
